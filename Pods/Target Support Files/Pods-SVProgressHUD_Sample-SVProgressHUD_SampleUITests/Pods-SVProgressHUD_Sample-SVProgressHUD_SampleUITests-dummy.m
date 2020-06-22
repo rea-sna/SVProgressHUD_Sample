@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SVProgressHUD_Sample_SVProgressHUD_SampleUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SVProgressHUD_Sample_SVProgressHUD_SampleUITests
+@end

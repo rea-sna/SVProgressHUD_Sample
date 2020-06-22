@@ -2,7 +2,7 @@
 //  SVProgressHUD_SampleUITests.swift
 //  SVProgressHUD_SampleUITests
 //
-//  Created by 繁野怜央 on 20200622.
+//  Created by github.com/rea_sna on 20200622.
 //  Copyright © 2020 Reo.S. All rights reserved.
 //
 

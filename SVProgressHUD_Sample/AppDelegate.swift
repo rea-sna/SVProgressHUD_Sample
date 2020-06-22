@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SVProgressHUD_Sample
 //
-//  Created by 繁野怜央 on 20200622.
+//  Created by github.com/rea_sna on 20200622.
 //  Copyright © 2020 Reo.S. All rights reserved.
 //
 
@@ -10,8 +10,8 @@ import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
+    
+    var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
